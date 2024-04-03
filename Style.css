@@ -1,0 +1,24 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+  width: 400px;
+}
+
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table {
+  background-color: gray;
+}
+
+.tabela2 {
+  display: table;
+  border-collapse: separate;
+  border-spacing: 2px;
+  border-color: gray;
+}
